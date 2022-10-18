@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Gradle: E./adkalfaNouman/AlfaSdk/libs/Infragistics.UI.jar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/AlfaSdk/libs/Infragistics.UI.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

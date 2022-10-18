@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<network-security-config>
+    <domain-config cleartextTrafficPermitted="true">
+        <domain includeSubdomains="false">203.101.171.179</domain>
+        <domain includeSubdomains="true">www.e-falah.com</domain>
+    </domain-config>
+</network-security-config>

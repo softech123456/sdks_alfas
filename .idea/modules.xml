@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/AlfaSdkExample.iml" filepath="$PROJECT_DIR$/.idea/modules/AlfaSdkExample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/AlfaSdk/AlfaSdkExample.AlfaSdk.iml" filepath="$PROJECT_DIR$/.idea/modules/AlfaSdk/AlfaSdkExample.AlfaSdk.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/AlfaSdk/AlfaSdkExample.AlfaSdk.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/AlfaSdk/AlfaSdkExample.AlfaSdk.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/AlfaSdk/AlfaSdkExample.AlfaSdk.main.iml" filepath="$PROJECT_DIR$/.idea/modules/AlfaSdk/AlfaSdkExample.AlfaSdk.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/AlfaSdk/AlfaSdkExample.AlfaSdk.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/AlfaSdk/AlfaSdkExample.AlfaSdk.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/AlfaSdkExample.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/AlfaSdkExample.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/AlfaSdkExample.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/AlfaSdkExample.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/AlfaSdkExample.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/AlfaSdkExample.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/AlfaSdkExample.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/AlfaSdkExample.app.unitTest.iml" />
+    </modules>
+  </component>
+</project>
